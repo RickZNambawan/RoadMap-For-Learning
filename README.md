@@ -15,6 +15,7 @@ My journey for learning experiences
    - Fetching API's
      - Axios
    - Classes (Object-Oriented Programming)
+   - JSON
 5. Terminal Commands
 6. Git/GitHub
 7. MongoDB (NoSQL)
