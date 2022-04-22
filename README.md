@@ -2,12 +2,12 @@
 My journey for learning experiences
 
 ## (March 31, 2022)
-1. HTML
+1. HTML (April 23, 2022)
 2. CSS
    - Bootstrap 5
    - Sass
    - Tailwind CSS
-4. JavaScript
+3. JavaScript
    - ES6 Syntax
    - Document Object Model (DOM)
    - JQuery (library)
@@ -16,6 +16,7 @@ My journey for learning experiences
      - Axios
    - Classes (Object-Oriented Programming)
    - JSON
+4. DevTools
 5. Terminal Commands
 6. Git/GitHub
 7. MongoDB (NoSQL)
