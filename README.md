@@ -3,7 +3,7 @@ My journey for learning experiences
 
 ## (March 31, 2022)
 1. HTML (April 23, 2022)
-2. CSS
+2. CSS (April 24, 2022)
    - Bootstrap 5
    - Sass
    - Tailwind CSS
