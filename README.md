@@ -4,9 +4,11 @@ My journey for learning experiences
 ## (March 31, 2022)
 1. HTML (April 23, 2022)
 2. CSS (April 24, 2022)
-   - Bootstrap 5
-   - Sass
-   - Tailwind CSS
+   - CSS Preprocessor
+      - Sass
+   - CSS Framework
+      - Bootstrap 5
+      - Tailwind CSS
 3. JavaScript
    - ES6 Syntax
    - Document Object Model (DOM)
@@ -21,7 +23,11 @@ My journey for learning experiences
 6. Git/GitHub
 7. MongoDB (NoSQL)
 8. Node JS
-   - Express JS (Framework)
+   - Framework
+      - Express JS
    - RESTful API
    - Database
 9. React JS
+10. Redux
+      - Redux Toolkit
+11. Socket.IO
